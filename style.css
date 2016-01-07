@@ -1,0 +1,45 @@
+.ftext {
+  background-color: black;
+  height: 300px;
+  width: 400px;
+}
+
+.NavBar {
+  background-color: black;
+  height: 100px;
+  width: 95%;
+  margin: 8px auto;
+}
+
+.SmallBox1 {
+  background-color: red;
+  float: left;
+  height: 300px;
+  width: 350px;
+  margin-left: 300px;
+}
+
+.SmallBox2 {
+  background-color: blue;
+  float: left;
+  margin-left: 300px;
+  height: 300px;
+  width: 350px;
+}
+
+.ClearFloat{
+  clear: both;
+}
+
+.BigBox{
+  margin: 5px;
+}
+
+.UL li {
+  display: inline;
+  margin: 30px;
+}
+
+.UL li a {
+  line-height: 100px;
+}
